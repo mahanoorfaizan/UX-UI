@@ -18,8 +18,6 @@
 
 MotionBook will show below libraries with examples. You can search and bookmark whatever you want. Also, MotionBook will automatically refresh according to below datas. Appstore intro support English, Korean, Chinease.
 
-## Contribution 
-Please see [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## Used Library 
 ### Categories
