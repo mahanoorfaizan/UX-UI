@@ -36,48 +36,42 @@ MotionBook will show below libraries with examples. You can search and bookmark 
 
 
 #### `Side-Menu.iOS`
-- Author: Yalantis
-- Git: https://github.com/Yalantis/Side-Menu.iOS
+
 - Detail: Animated side menu with customizable UI. Made in Yalantis.
 - Cocoapods: true
 - Carthage: false
 - Type: Menu
 
 #### `circle-menu`
-- Author: Ramotion
-- Git: https://github.com/Ramotion/circle-menu
+
 - Detail: This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 - Cocoapods: true
 - Carthage: true
 - Type: Menu
 
 #### `GuillotineMenu`
-- Author: Yalantis
-- Git: https://github.com/Yalantis/GuillotineMenu
+
 - Detail: Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 - Cocoapods: true
 - Carthage: false
 - Type: Menu
 
 #### `SideMenu`
-- Author: jonkykong
-- Git: https://github.com/jonkykong/SideMenu
+
 - Detail: Simple side menu control for iOS in Swift inspired by Facebook. Right and Left sides. No coding required. iOS 8+.
 - Cocoapods: true
 - Carthage: true
 - Type: Menu
 
 #### `SlideMenuControllerSwift`
-- Author: dekatotoro
-- Git: https://github.com/dekatotoro/SlideMenuControllerSwift
+
 - Detail: iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 - Cocoapods: true
 - Carthage: true
 - Type: Menu
 
 #### `animated-tab-bar`
-- Author: Ramotion
-- Git: https://github.com/Ramotion/animated-tab-bar
+
 - Detail: RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
 - Cocoapods: true
 - Carthage: true
